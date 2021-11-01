@@ -1,0 +1,1614 @@
+[
+    {
+        "from": "Albedo",
+        "to": "Sucrose"
+    },
+    {
+        "from": "Albedo",
+        "to": "Lisa"
+    },
+    {
+        "from": "Albedo",
+        "to": "Klee"
+    },
+    {
+        "from": "Albedo",
+        "to": "Jean"
+    },
+    {
+        "from": "Albedo",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Albedo",
+        "to": "Barbara"
+    },
+    {
+        "from": "Albedo",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Mona",
+        "to": "Albedo"
+    },
+    {
+        "from": "Amber",
+        "to": "Jean"
+    },
+    {
+        "from": "Amber",
+        "to": "Jean"
+    },
+    {
+        "from": "Amber",
+        "to": "Jean"
+    },
+    {
+        "from": "Amber",
+        "to": "Lisa"
+    },
+    {
+        "from": "Amber",
+        "to": "Lisa"
+    },
+    {
+        "from": "Amber",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Amber",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Amber",
+        "to": "Bennett"
+    },
+    {
+        "from": "Amber",
+        "to": "Klee"
+    },
+    {
+        "from": "Amber",
+        "to": "Jean"
+    },
+    {
+        "from": "Amber",
+        "to": "Albedo"
+    },
+    {
+        "from": "Amber",
+        "to": "Noelle"
+    },
+    {
+        "from": "Amber",
+        "to": "Eula"
+    },
+    {
+        "from": "Amber",
+        "to": "Jean"
+    },
+    {
+        "from": "Amber",
+        "to": "Jean"
+    },
+    {
+        "from": "Eula",
+        "to": "Amber"
+    },
+    {
+        "from": "Klee",
+        "to": "Amber"
+    },
+    {
+        "from": "Noelle",
+        "to": "Amber"
+    },
+    {
+        "from": "Barbara",
+        "to": "Jean"
+    },
+    {
+        "from": "Barbara",
+        "to": "Lisa"
+    },
+    {
+        "from": "Barbara",
+        "to": "Amber"
+    },
+    {
+        "from": "Barbara",
+        "to": "Diluc"
+    },
+    {
+        "from": "Barbara",
+        "to": "Venti"
+    },
+    {
+        "from": "Barbara",
+        "to": "Bennett"
+    },
+    {
+        "from": "Barbara",
+        "to": "Rosaria"
+    },
+    {
+        "from": "Barbara",
+        "to": "Noelle"
+    },
+    {
+        "from": "Bennett",
+        "to": "Barbara"
+    },
+    {
+        "from": "Jean",
+        "to": "Barbara"
+    },
+    {
+        "from": "Beidou",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Beidou",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Beidou",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Beidou",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Beidou",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Beidou",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Beidou",
+        "to": "Xiao"
+    },
+    {
+        "from": "Beidou",
+        "to": "Ganyu"
+    },
+    {
+        "from": "Beidou",
+        "to": "Xinyan"
+    },
+    {
+        "from": "Beidou",
+        "to": "Kaedehara Kazuha"
+    },
+    {
+        "from": "Kaedehara Kazuha",
+        "to": "Beidou"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Beidou"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Beidou"
+    },
+    {
+        "from": "Bennett",
+        "to": "Barbara"
+    },
+    {
+        "from": "Bennett",
+        "to": "Klee"
+    },
+    {
+        "from": "Bennett",
+        "to": "Fischl"
+    },
+    {
+        "from": "Bennett",
+        "to": "Jean"
+    },
+    {
+        "from": "Bennett",
+        "to": "Razor"
+    },
+    {
+        "from": "Bennett",
+        "to": "Amber"
+    },
+    {
+        "from": "Bennett",
+        "to": "Noelle"
+    },
+    {
+        "from": "Bennett",
+        "to": "Traveler"
+    },
+    {
+        "from": "Chongyun",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Chongyun",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Chongyun",
+        "to": "Xiao"
+    },
+    {
+        "from": "Chongyun",
+        "to": "Hu Tao"
+    },
+    {
+        "from": "Chongyun",
+        "to": "Qiqi"
+    },
+    {
+        "from": "Chongyun",
+        "to": "Xinyan"
+    },
+    {
+        "from": "Chongyun",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Chongyun"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Chongyun"
+    },
+    {
+        "from": "Diluc",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Diluc",
+        "to": "Lisa"
+    },
+    {
+        "from": "Diluc",
+        "to": "Jean"
+    },
+    {
+        "from": "Diluc",
+        "to": "Mona"
+    },
+    {
+        "from": "Diluc",
+        "to": "Diona"
+    },
+    {
+        "from": "Diluc",
+        "to": "Eula"
+    },
+    {
+        "from": "Diona",
+        "to": "Diluc"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Diluc"
+    },
+    {
+        "from": "Diona",
+        "to": "Diluc"
+    },
+    {
+        "from": "Diona",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Diona",
+        "to": "Venti"
+    },
+    {
+        "from": "Diona",
+        "to": "Barbara"
+    },
+    {
+        "from": "Diona",
+        "to": "Jean"
+    },
+    {
+        "from": "Diona",
+        "to": "Albedo"
+    },
+    {
+        "from": "Diona",
+        "to": "Lisa"
+    },
+    {
+        "from": "Diona",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Diona",
+        "to": "Klee"
+    },
+    {
+        "from": "Eula",
+        "to": "Amber"
+    },
+    {
+        "from": "Eula",
+        "to": "Jean"
+    },
+    {
+        "from": "Eula",
+        "to": "Lisa"
+    },
+    {
+        "from": "Eula",
+        "to": "Barbara"
+    },
+    {
+        "from": "Eula",
+        "to": "Venti"
+    },
+    {
+        "from": "Eula",
+        "to": "Razor"
+    },
+    {
+        "from": "Eula",
+        "to": "Sucrose"
+    },
+    {
+        "from": "Eula",
+        "to": "Diluc"
+    },
+    {
+        "from": "Eula",
+        "to": "Jean"
+    },
+    {
+        "from": "Eula",
+        "to": "Diona"
+    },
+    {
+        "from": "Eula",
+        "to": "Yanfei"
+    },
+    {
+        "from": "Eula",
+        "to": "Yanfei"
+    },
+    {
+        "from": "Fischl",
+        "to": "Traveler"
+    },
+    {
+        "from": "Fischl",
+        "to": "Bennett"
+    },
+    {
+        "from": "Fischl",
+        "to": "Lisa"
+    },
+    {
+        "from": "Fischl",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Fischl",
+        "to": "Mona"
+    },
+    {
+        "from": "Fischl",
+        "to": "Rosaria"
+    },
+    {
+        "from": "Ganyu",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Ganyu",
+        "to": "Keqing"
+    },
+    {
+        "from": "Ganyu",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Ganyu",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Ganyu",
+        "to": "Beidou"
+    },
+    {
+        "from": "Ganyu",
+        "to": "Xiao"
+    },
+    {
+        "from": "Ganyu",
+        "to": "Yanfei"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Qiqi"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Beidou"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Chongyun"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Xiao"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Keqing"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Qiqi",
+        "to": "Hu Tao"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Hu Tao"
+    },
+    {
+        "from": "Jean",
+        "to": "Lisa"
+    },
+    {
+        "from": "Jean",
+        "to": "Barbara"
+    },
+    {
+        "from": "Jean",
+        "to": "Lisa"
+    },
+    {
+        "from": "Jean",
+        "to": "Amber"
+    },
+    {
+        "from": "Jean",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Jean",
+        "to": "Klee"
+    },
+    {
+        "from": "Jean",
+        "to": "Albedo"
+    },
+    {
+        "from": "Jean",
+        "to": "Noelle"
+    },
+    {
+        "from": "Jean",
+        "to": "Rosaria"
+    },
+    {
+        "from": "Jean",
+        "to": "Diluc"
+    },
+    {
+        "from": "Jean",
+        "to": "Diluc"
+    },
+    {
+        "from": "Jean",
+        "to": "Albedo"
+    },
+    {
+        "from": "Jean",
+        "to": "Sucrose"
+    },
+    {
+        "from": "Jean",
+        "to": "Eula"
+    },
+    {
+        "from": "Jean",
+        "to": "Lisa"
+    },
+    {
+        "from": "Barbara",
+        "to": "Jean"
+    },
+    {
+        "from": "Diluc",
+        "to": "Jean"
+    },
+    {
+        "from": "Eula",
+        "to": "Jean"
+    },
+    {
+        "from": "Klee",
+        "to": "Jean"
+    },
+    {
+        "from": "Noelle",
+        "to": "Jean"
+    },
+    {
+        "from": "Kaedehara Kazuha",
+        "to": "Beidou"
+    },
+    {
+        "from": "Kaedehara Kazuha",
+        "to": "Kamisato Ayaka"
+    },
+    {
+        "from": "Kaedehara Kazuha",
+        "to": "Beidou"
+    },
+    {
+        "from": "Kaedehara Kazuha",
+        "to": "Yoimiya"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Jean"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Lisa"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Amber"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Diluc"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Klee"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Albedo"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Diona"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Fischl"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Noelle"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Rosaria"
+    },
+    {
+        "from": "Kaeya",
+        "to": "Sucrose"
+    },
+    {
+        "from": "Eula",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Klee",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Lisa",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Noelle",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Kamisato Ayaka",
+        "to": "Traveler"
+    },
+    {
+        "from": "Kamisato Ayaka",
+        "to": "Traveler"
+    },
+    {
+        "from": "Kamisato Ayaka",
+        "to": "Sayu"
+    },
+    {
+        "from": "Kamisato Ayaka",
+        "to": "Yoimiya"
+    },
+    {
+        "from": "Yoimiya",
+        "to": "Kamisato Ayaka"
+    },
+    {
+        "from": "Keqing",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Keqing",
+        "to": "Beidou"
+    },
+    {
+        "from": "Keqing",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Keqing",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Keqing",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Keqing",
+        "to": "Xinyan"
+    },
+    {
+        "from": "Keqing",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Keqing",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Keqing",
+        "to": "Xiao"
+    },
+    {
+        "from": "Keqing",
+        "to": "Ganyu"
+    },
+    {
+        "from": "Keqing",
+        "to": "Ganyu"
+    },
+    {
+        "from": "Keqing",
+        "to": "Yanfei"
+    },
+    {
+        "from": "Klee",
+        "to": "Jean"
+    },
+    {
+        "from": "Klee",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Klee",
+        "to": "Jean"
+    },
+    {
+        "from": "Klee",
+        "to": "Razor"
+    },
+    {
+        "from": "Klee",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Klee",
+        "to": "Amber"
+    },
+    {
+        "from": "Klee",
+        "to": "Jean"
+    },
+    {
+        "from": "Klee",
+        "to": "Diluc"
+    },
+    {
+        "from": "Klee",
+        "to": "Lisa"
+    },
+    {
+        "from": "Klee",
+        "to": "Bennett"
+    },
+    {
+        "from": "Klee",
+        "to": "Diona"
+    },
+    {
+        "from": "Klee",
+        "to": "Mona"
+    },
+    {
+        "from": "Klee",
+        "to": "Sucrose"
+    },
+    {
+        "from": "Klee",
+        "to": "Razor"
+    },
+    {
+        "from": "Klee",
+        "to": "Jean"
+    },
+    {
+        "from": "Klee",
+        "to": "Jean"
+    },
+    {
+        "from": "Bennett",
+        "to": "Klee"
+    },
+    {
+        "from": "Mona",
+        "to": "Klee"
+    },
+    {
+        "from": "Noelle",
+        "to": "Klee"
+    },
+    {
+        "from": "Razor",
+        "to": "Klee"
+    },
+    {
+        "from": "Lisa",
+        "to": "Jean"
+    },
+    {
+        "from": "Lisa",
+        "to": "Jean"
+    },
+    {
+        "from": "Lisa",
+        "to": "Amber"
+    },
+    {
+        "from": "Lisa",
+        "to": "Barbara"
+    },
+    {
+        "from": "Lisa",
+        "to": "Diluc"
+    },
+    {
+        "from": "Lisa",
+        "to": "Razor"
+    },
+    {
+        "from": "Lisa",
+        "to": "Klee"
+    },
+    {
+        "from": "Lisa",
+        "to": "Mona"
+    },
+    {
+        "from": "Lisa",
+        "to": "Albedo"
+    },
+    {
+        "from": "Lisa",
+        "to": "Fischl"
+    },
+    {
+        "from": "Lisa",
+        "to": "Noelle"
+    },
+    {
+        "from": "Lisa",
+        "to": "Sucrose"
+    },
+    {
+        "from": "Lisa",
+        "to": "Razor"
+    },
+    {
+        "from": "Albedo",
+        "to": "Lisa"
+    },
+    {
+        "from": "Eula",
+        "to": "Lisa"
+    },
+    {
+        "from": "Jean",
+        "to": "Lisa"
+    },
+    {
+        "from": "Razor",
+        "to": "Lisa"
+    },
+    {
+        "from": "Mona",
+        "to": "Jean"
+    },
+    {
+        "from": "Mona",
+        "to": "Albedo"
+    },
+    {
+        "from": "Mona",
+        "to": "Klee"
+    },
+    {
+        "from": "Mona",
+        "to": "Albedo"
+    },
+    {
+        "from": "Mona",
+        "to": "Diluc"
+    },
+    {
+        "from": "Mona",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Mona",
+        "to": "Lisa"
+    },
+    {
+        "from": "Mona",
+        "to": "Venti"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Beidou"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Beidou"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Ganyu"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Ganyu"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Keqing"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Jean"
+    },
+    {
+        "from": "Ningguang",
+        "to": "Yanfei"
+    },
+    {
+        "from": "Beidou",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Yanfei",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Noelle",
+        "to": "Amber"
+    },
+    {
+        "from": "Noelle",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Noelle",
+        "to": "Amber"
+    },
+    {
+        "from": "Noelle",
+        "to": "Klee"
+    },
+    {
+        "from": "Noelle",
+        "to": "Jean"
+    },
+    {
+        "from": "Noelle",
+        "to": "Jean"
+    },
+    {
+        "from": "Noelle",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Noelle",
+        "to": "Bennett"
+    },
+    {
+        "from": "Noelle",
+        "to": "Fischl"
+    },
+    {
+        "from": "Noelle",
+        "to": "Fischl"
+    },
+    {
+        "from": "Noelle",
+        "to": "Barbara"
+    },
+    {
+        "from": "Noelle",
+        "to": "Jean"
+    },
+    {
+        "from": "Qiqi",
+        "to": "Hu Tao"
+    },
+    {
+        "from": "Qiqi",
+        "to": "Xiao"
+    },
+    {
+        "from": "Qiqi",
+        "to": "Xinyan"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Qiqi"
+    },
+    {
+        "from": "Razor",
+        "to": "Lisa"
+    },
+    {
+        "from": "Razor",
+        "to": "Barbara"
+    },
+    {
+        "from": "Razor",
+        "to": "Diluc"
+    },
+    {
+        "from": "Razor",
+        "to": "Venti"
+    },
+    {
+        "from": "Razor",
+        "to": "Bennett"
+    },
+    {
+        "from": "Razor",
+        "to": "Klee"
+    },
+    {
+        "from": "Rosaria",
+        "to": "Diluc"
+    },
+    {
+        "from": "Rosaria",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Rosaria",
+        "to": "Venti"
+    },
+    {
+        "from": "Rosaria",
+        "to": "Barbara"
+    },
+    {
+        "from": "Rosaria",
+        "to": "Jean"
+    },
+    {
+        "from": "Rosaria",
+        "to": "Albedo"
+    },
+    {
+        "from": "Rosaria",
+        "to": "Lisa"
+    },
+    {
+        "from": "Rosaria",
+        "to": "Klee"
+    },
+    {
+        "from": "Sayu",
+        "to": "Kamisato Ayaka"
+    },
+    {
+        "from": "Sayu",
+        "to": "Yoimiya"
+    },
+    {
+        "from": "Sucrose",
+        "to": "Noelle"
+    },
+    {
+        "from": "Sucrose",
+        "to": "Klee"
+    },
+    {
+        "from": "Sucrose",
+        "to": "Jean"
+    },
+    {
+        "from": "Sucrose",
+        "to": "Lisa"
+    },
+    {
+        "from": "Sucrose",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Sucrose",
+        "to": "Amber"
+    },
+    {
+        "from": "Sucrose",
+        "to": "Fischl"
+    },
+    {
+        "from": "Sucrose",
+        "to": "Eula"
+    },
+    {
+        "from": "Tartaglia",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Tartaglia",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Traveler",
+        "to": "Diluc"
+    },
+    {
+        "from": "Traveler",
+        "to": "Lisa"
+    },
+    {
+        "from": "Traveler",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Traveler",
+        "to": "Venti"
+    },
+    {
+        "from": "Traveler",
+        "to": "Jean"
+    },
+    {
+        "from": "Traveler",
+        "to": "Venti"
+    },
+    {
+        "from": "Traveler",
+        "to": "Venti"
+    },
+    {
+        "from": "Traveler",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Traveler",
+        "to": "Bennett"
+    },
+    {
+        "from": "Traveler",
+        "to": "Barbara"
+    },
+    {
+        "from": "Traveler",
+        "to": "Bennett"
+    },
+    {
+        "from": "Traveler",
+        "to": "Barbara"
+    },
+    {
+        "from": "Traveler",
+        "to": "Amber"
+    },
+    {
+        "from": "Traveler",
+        "to": "Lisa"
+    },
+    {
+        "from": "Traveler",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Traveler",
+        "to": "Diluc"
+    },
+    {
+        "from": "Traveler",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Traveler",
+        "to": "Diluc"
+    },
+    {
+        "from": "Traveler",
+        "to": "Jean"
+    },
+    {
+        "from": "Traveler",
+        "to": "Razor"
+    },
+    {
+        "from": "Traveler",
+        "to": "Klee"
+    },
+    {
+        "from": "Traveler",
+        "to": "Noelle"
+    },
+    {
+        "from": "Traveler",
+        "to": "Fischl"
+    },
+    {
+        "from": "Traveler",
+        "to": "Fischl"
+    },
+    {
+        "from": "Traveler",
+        "to": "Beidou"
+    },
+    {
+        "from": "Traveler",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Traveler",
+        "to": "Qiqi"
+    },
+    {
+        "from": "Traveler",
+        "to": "Fischl"
+    },
+    {
+        "from": "Traveler",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Traveler",
+        "to": "Ganyu"
+    },
+    {
+        "from": "Traveler",
+        "to": "Kaedehara Kazuha"
+    },
+    {
+        "from": "Traveler",
+        "to": "Kamisato Ayaka"
+    },
+    {
+        "from": "Traveler",
+        "to": "Yoimiya"
+    },
+    {
+        "from": "Traveler",
+        "to": "Sayu"
+    },
+    {
+        "from": "Traveler",
+        "to": "Sayu"
+    },
+    {
+        "from": "Traveler",
+        "to": "Xiao"
+    },
+    {
+        "from": "Traveler",
+        "to": "Albedo"
+    },
+    {
+        "from": "Traveler",
+        "to": "Albedo"
+    },
+    {
+        "from": "Traveler",
+        "to": "Mona"
+    },
+    {
+        "from": "Traveler",
+        "to": "Fischl"
+    },
+    {
+        "from": "Traveler",
+        "to": "Yoimiya"
+    },
+    {
+        "from": "Traveler",
+        "to": "Kaeya"
+    },
+    {
+        "from": "Traveler",
+        "to": "Jean"
+    },
+    {
+        "from": "Traveler",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Traveler",
+        "to": "Venti"
+    },
+    {
+        "from": "Venti",
+        "to": "Traveler"
+    },
+    {
+        "from": "Venti",
+        "to": "Traveler"
+    },
+    {
+        "from": "Venti",
+        "to": "Traveler"
+    },
+    {
+        "from": "Venti",
+        "to": "Jean"
+    },
+    {
+        "from": "Venti",
+        "to": "Diluc"
+    },
+    {
+        "from": "Venti",
+        "to": "Barbara"
+    },
+    {
+        "from": "Venti",
+        "to": "Razor"
+    },
+    {
+        "from": "Venti",
+        "to": "Mona"
+    },
+    {
+        "from": "Venti",
+        "to": "Diona"
+    },
+    {
+        "from": "Venti",
+        "to": "Albedo"
+    },
+    {
+        "from": "Venti",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Venti",
+        "to": "Eula"
+    },
+    {
+        "from": "Venti",
+        "to": "Traveler"
+    },
+    {
+        "from": "Venti",
+        "to": "Traveler"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Hu Tao"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Diona"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Beidou"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Chongyun"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Ganyu"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Xinyan"
+    },
+    {
+        "from": "Xiangling",
+        "to": "Chongyun"
+    },
+    {
+        "from": "Beidou",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Chongyun",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Xinyan",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Xiao",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Xiao",
+        "to": "Beidou"
+    },
+    {
+        "from": "Xiao",
+        "to": "Hu Tao"
+    },
+    {
+        "from": "Xiao",
+        "to": "Venti"
+    },
+    {
+        "from": "Xiao",
+        "to": "Ganyu"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Beidou"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Chongyun"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Hu Tao"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Qiqi"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Chongyun"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Xinyan"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Albedo"
+    },
+    {
+        "from": "Xingqiu",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Albedo",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Chongyun",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Xinyan",
+        "to": "Traveler"
+    },
+    {
+        "from": "Xinyan",
+        "to": "Xiangling"
+    },
+    {
+        "from": "Xinyan",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Xinyan",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Xinyan",
+        "to": "Beidou"
+    },
+    {
+        "from": "Xinyan",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Xinyan",
+        "to": "Chongyun"
+    },
+    {
+        "from": "Xinyan",
+        "to": "Hu Tao"
+    },
+    {
+        "from": "Yanfei",
+        "to": "Xinyan"
+    },
+    {
+        "from": "Yanfei",
+        "to": "Qiqi"
+    },
+    {
+        "from": "Yanfei",
+        "to": "Ganyu"
+    },
+    {
+        "from": "Yanfei",
+        "to": "Xingqiu"
+    },
+    {
+        "from": "Yanfei",
+        "to": "Hu Tao"
+    },
+    {
+        "from": "Yanfei",
+        "to": "Zhongli"
+    },
+    {
+        "from": "Yanfei",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Yanfei",
+        "to": "Keqing"
+    },
+    {
+        "from": "Yanfei",
+        "to": "Eula"
+    },
+    {
+        "from": "Yoimiya",
+        "to": "Beidou"
+    },
+    {
+        "from": "Yoimiya",
+        "to": "Beidou"
+    },
+    {
+        "from": "Yoimiya",
+        "to": "Kamisato Ayaka"
+    },
+    {
+        "from": "Yoimiya",
+        "to": "Kamisato Ayaka"
+    },
+    {
+        "from": "Yoimiya",
+        "to": "Kaedehara Kazuha"
+    },
+    {
+        "from": "Yoimiya",
+        "to": "Sayu"
+    },
+    {
+        "from": "Yoimiya",
+        "to": "Klee"
+    },
+    {
+        "from": "Sayu",
+        "to": "Yoimiya"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Traveler"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Xiao"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Venti"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Ningguang"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Hu Tao"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Tartaglia"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Traveler"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Ganyu"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Keqing"
+    },
+    {
+        "from": "Zhongli",
+        "to": "Yanfei"
+    },
+    {
+        "from": "Hu Tao",
+        "to": "Zhongli"
+    }
+]

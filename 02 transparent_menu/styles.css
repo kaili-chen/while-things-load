@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  cursor:url('./imgs/acquaint_fate_small.png'), auto;
+  font-family: 'Bree Serif', serif;
+}
+
+.main {
+  position:relative;
+  top: 30%;
+  /* left:30%; */
+  /* right: 10%; */
+}
+
+.menu-link, footer > a, .btn-link {
+    color: inherit;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+/* https://html-css-js.com/css/generator/text-shadow/ */
+.menu-link:hover {
+  cursor:url('./imgs/intertwined_fate_small.png'), auto;
+  color: #b13c46;
+  text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
+  /* cursor: pointer; */
+}
