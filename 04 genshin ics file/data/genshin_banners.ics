@@ -1,0 +1,270 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210720T065959Z
+DTSTART:20210629T100000Z
+SUMMARY:Epitome Invocation (Freedom-Sworn\, Skyward Atlas\, The Alley Flash\, Wine and Song\, Alley Hunter\, Dragon's Bane\, Favonius Greatsword)
+UID:0ed61265-cae4-4075-8547-e1c46090770d@0ed6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210810T095900Z
+DTSTART:20210721T030000Z
+SUMMARY:Epitome Invocation (Mistsplitter Reforged\, Skyward Spine\, The Stringless\, Favonius Codex\, Favonius Lance\, Sacrificial Greatsword\, Favonius Sword)
+UID:e2755acb-c0c3-4b9f-9525-563de5ca119b@e275.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20211012T065959Z
+DTSTART:20210921T100000Z
+SUMMARY:Drifting Luminescence (Kokomi\, Rosaria\, Beidou\, Xingqiu)
+UID:f24099d5-8874-4f2d-9351-fdd7562436ab@f240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210831T065959Z
+DTSTART:20210810T100000Z
+SUMMARY:Tapestry of Golden Flames (Yoimiya\, Diona\, Xinyan\, Sayu)
+UID:463ffc03-1d6e-4d35-a65d-762eabcdc065@463f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210921T095959Z
+DTSTART:20210901T030000Z
+SUMMARY:Reign of Serenity (Raiden Shogun\, Kujou Sara\, Sucrose\, Xiangling)
+UID:f5ad2391-a492-464b-9578-6328f3ae59e0@f5ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210112T075959Z
+DTSTART:20201223T020000Z
+SUMMARY:Secretum Secretorum (Albedo\, Fischl\, Sucrose\, Bennett)
+UID:d9e87289-668c-47ac-a4d7-51b5c8fb35b9@d9e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210316T065959Z
+DTSTART:20210302T100000Z
+SUMMARY:Moment of Bloom (Hu Tao\, Xingqiu\, Xiangling\, Chongyun)
+UID:b31d2d92-333b-411d-b08a-c4215d18bfa9@b31d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20211102T095900Z
+DTSTART:20211013T030000Z
+SUMMARY:Epitome Invocation (Polar Star\, Memory of Dust\, Akuoumaru\, Favonius Sword\, Favonius Lance\, Eye of Perception\, Rust)
+UID:0bf2a250-ab2a-4a44-a1c0-27eb507481fa@0bf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210217T075959Z
+DTSTART:20210203T014900Z
+SUMMARY:Invitation to Mundane Life (Xiao\, Diona\, Beidou\, Xinyan)
+UID:e9e0643f-47ea-46d5-a530-b3f24445bee5@e9e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210406T075959Z
+DTSTART:20210317T030000Z
+SUMMARY:Epitome Invocation (Elegy for the End\, Skyward Blade\, The Alley Flash\, Wine and Song\, Favonius Greatsword\, Favonius Warbow\, Dragon's Bane)
+UID:5c461a72-eece-473a-ba6b-e81685cb7a4d@5c46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20211123T065959Z
+DTSTART:20211102T100000Z
+SUMMARY:Epitome Invocation (Staff of Homa\, Elegy for the End\, Wavebreaker's Fin\, Mouun's Moon\, Sacrificial Sword\, Rainslasher\, The Widsith)
+UID:0ef9b336-86ee-4f6c-8ada-91d07da05cc8@0ef9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210720T065959Z
+DTSTART:20210629T100000Z
+SUMMARY:Leaves in the Wind (Kazuha\, Bennett\, Razor\, Rosaria)
+UID:1d3cc370-ec35-4daf-828e-bb8cd2184366@1d3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20201222T065959Z
+DTSTART:20201201T100000Z
+SUMMARY:Gentry of Hermitage (Zhongli\, Xinyan\, Chongyun\, Razor)
+UID:41b19dec-1eea-456b-bf88-9732fe8a068c@41b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210810T095959Z
+DTSTART:20210721T030000Z
+SUMMARY:The Heron's Court (Ayaka\, Ningguang\, Chongyun\, Yanfei)
+UID:f1fa69b0-1850-42c8-9413-8f5d0cfbc18f@f1fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20211123T065959Z
+DTSTART:20211102T100000Z
+SUMMARY:Moment of Bloom (Hu Tao\, Thoma\, Sayu\, Diona)
+UID:4c05501d-abaa-4ac6-85c9-72283a1d3aff@4c05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210518T095900Z
+DTSTART:20210428T030000Z
+SUMMARY:Gentry of Hermitage (Zhongli\, Yanfei\, Noelle\, Diona)
+UID:3eedf5d4-95b2-4f73-8970-bce990c5b081@3eed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20201222T065959Z
+DTSTART:20201201T100000Z
+SUMMARY:Epitome Invocation (Vortex Vanquisher\, The Unforged\, Favonius Warbow\, Favonius Codex\, Dragon's Bane\, The Bell\, Lion's Roar)
+UID:c6b6fcdd-e4cc-4991-933d-164f5ef3c562@c6b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20201201T075959Z
+DTSTART:20201111T020000Z
+SUMMARY:Farewell of Snezhnaya (Tartaglia\, Diona\, Ningguang\, Beidou)
+UID:ada31f6a-c12e-496f-96cc-75f8d1a0705a@ada3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210202T065959Z
+DTSTART:20210112T100000Z
+SUMMARY:Adrift in the Harbor (Ganyu\, Noelle\, Xingqiu\, Xiangling)
+UID:79cb2c6a-18e7-4dde-9001-73927e00c470@79cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210427T065959Z
+DTSTART:20210406T100000Z
+SUMMARY:Farewell of Snezhnaya (Tartaglia\, Rosaria\, Fischl\, Barbara)
+UID:2dac0725-827e-4c93-83e2-b5148f9e8d3c@2dac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210518T095900Z
+DTSTART:20210428T030000Z
+SUMMARY:Epitome Invocation (Summit Shaper\, Memory of Dust\, Lithic Blade\, Lithic Spear\, Sacrificial Bow\, Eye of Perception\, The Flute)
+UID:b8532f5f-cfb0-4e5a-9f96-f05846cacae7@b853.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210223T075959Z
+DTSTART:20210203T030000Z
+SUMMARY:Epitome Invocation (Primordial Jade Cutter\, Primordial Jade Winged-Spear\, Rust\, Eye of Perception\, Favonius Lance\, Sacrificial Greatsword\, The Flute)
+UID:d4dabca0-0530-4b92-8bcc-cc6986ec3ccd@d4da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20201201T075959Z
+DTSTART:20201111T020000Z
+SUMMARY:Epitome Invocation (Memory of Dust\, Skyward Harp\, Rust\, Eye of Perception\, Favonius Lance\, Rainslasher\, The Flute)
+UID:42062cc8-2be6-437b-b9f2-cffc173b682d@4206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210629T095900Z
+DTSTART:20210609T030000Z
+SUMMARY:Sparkling Steps (Klee\, Sucrose\, Fischl\, Barbara)
+UID:96b2a1c4-6b8a-469f-b009-8a8291ebea5c@96b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210608T065959Z
+DTSTART:20210518T100000Z
+SUMMARY:Born of Ocean Swell (Eula\, Xinyan\, Xingqiu\, Beidou)
+UID:7f424693-2a70-48c3-8f57-36c205bd939f@7f42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210202T065959Z
+DTSTART:20210112T100000Z
+SUMMARY:Epitome Invocation (Amos' Bow\, Skyward Pride\, Favonius Warbow\, Eye of Perception\, Dragon's Bane\, The Bell\, Sacrificial Sword)
+UID:dab83e40-3e8b-4998-97d0-4d28dafb5632@dab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210921T095900Z
+DTSTART:20210901T030000Z
+SUMMARY:Epitome Invocation (Engulfing Lightning\, The Unforged\, Sacrificial Bow\, The Widsith\, Favonius Lance\, The Bell\, Lion's Roar)
+UID:14247b00-e676-498d-a208-052545786a1e@1424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210316T065959Z
+DTSTART:20210223T100000Z
+SUMMARY:Epitome Invocation (Staff of Homa\, Wolf's Gravestone\, Lithic Spear\, Lithic Blade\, Sacrificial Bow\, The Widsith\, Lion's Roar)
+UID:324ce135-474a-4b33-b369-51b4f0fceb7c@324c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210427T065959Z
+DTSTART:20210406T100000Z
+SUMMARY:Epitome Invocation (Skyward Harp\, Lost Prayer to the Sacred Winds\, Alley Hunter\, Favonius Codex\, Favonius Lance\, Sacrificial Greatsword\, Favonius Sword)
+UID:53ca09cb-d787-49cf-96b6-a8e533d0c32b@53ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210629T095900Z
+DTSTART:20210609T030000Z
+SUMMARY:Epitome Invocation (Skyward Pride\, Lost Prayer to the Sacred Winds\, Mitternachts Waltz\, The Widsith\, Favonius Lance\, The Bell\, Lion's Roar)
+UID:ed2b5191-286b-4d1c-953c-d33faee6fd74@ed2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210302T075959Z
+DTSTART:20210217T100000Z
+SUMMARY:Dance of Lanterns (Keqing\, Bennett\, Ningguang\, Barbara)
+UID:4ee9c107-665b-4573-bed6-94eaf5f08cdb@4ee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20211012T065900Z
+DTSTART:20210921T100000Z
+SUMMARY:Epitome Invocation (Everlasting Moonglow\, Primordial Jade Cutter\, The Stringless\, Favonius Codex\, Dragon's Bane\, Favonius Greatsword\, The Flute)
+UID:8d56cb30-8620-420f-8e25-eb9f125c0f62@8d56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210608T065959Z
+DTSTART:20210518T100000Z
+SUMMARY:Epitome Invocation (Song of Broken Pines\, Aquila Favonia\, Rust\, Sacrificial Fragments\, Dragon's Bane\, Rainslasher\, Sacrificial Sword)
+UID:f0a25570-be2e-4b1b-b191-d8b9a23eb948@f0a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20210406T075959Z
+DTSTART:20210317T030000Z
+SUMMARY:Ballad in Goblets (Venti\, Noelle\, Sucrose\, Razor)
+UID:fd1754ea-954a-40ed-8366-d5d6b3c5ee0f@fd17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20211102T095959Z
+DTSTART:20211013T030000Z
+SUMMARY:Farewell of Snezhnaya (Tartaglia\, Ningguang\, Chongyun\, Yanfei)
+UID:2546f35c-314a-4d81-960d-cf233ff553ac@2546.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210831T065959Z
+DTSTART:20210810T100000Z
+SUMMARY:Epitome Invocation (Thundering Pulse\, Skyward Blade\, Favonius Warbow\, Sacrificial Fragments\, Dragon's Bane\, Rainslasher\, Sacrificial Sword)
+UID:65d84d55-7442-412d-ae3d-44c0c29d8d6e@65d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons
+DTEND:20210112T075959Z
+DTSTART:20201223T020000Z
+SUMMARY:Epitome Invocation (Summit Shaper\, Skyward Atlas\, The Stringless\, Sacrificial Fragments\, Favonius Lance\, Favonius Greatsword\, Favonius Sword)
+UID:9329a928-7dc2-4b61-bb69-950c237ac0c9@9329.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characters
+DTEND:20201110T065959Z
+DTSTART:20201020T100000Z
+SUMMARY:Sparkling Steps (Klee\, Sucrose\, Noelle\, Xingqiu)
+UID:1e7a01ef-3051-4a05-a033-46163a366082@1e7a.org
+END:VEVENT
+END:VCALENDAR
